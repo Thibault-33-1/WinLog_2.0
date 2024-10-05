@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1727152104 source:c:\users\thib\desktop\winlog_2.0\basebrd-01574\dll\dll.c\main.c
+	"main.h"
+
+1727152104 c:\users\thib\desktop\winlog_2.0\basebrd-01574\dll\dll.c\main.h
+	<windows.h>
+
+1727152104 source:c:\users\thib\desktop\winlog_2.0\basebrd-01574\ressources\basebrd.rc
+
+1727152104 source:c:\users\thib\desktop\winlog_2.0\basebrd-01574\src\util.c
+	<windows.h>
+	<stdio.h>
+	<time.h>
+	"../includes/util.h"
+
+1727152104 c:\users\thib\desktop\winlog_2.0\basebrd-01574\includes\util.h
+
+1728097957 source:c:\users\thib\desktop\winlog_2.0\basebrd-01574\src\server_main.c
+	<windows.h>
+	<stdio.h>
+	<string.h>
+	<errno.h>
+	<assert.h>
+	<time.h>
+	<ctype.h>
+	<winsock2.h>
+	"../includes/constants.h"
+	"../includes/util.h"
+
+1727152104 c:\users\thib\desktop\winlog_2.0\basebrd-01574\includes\constants.h
+	<windows.h>
+
+1727152104 source:c:\users\thib\desktop\winlog_2.0_last\basebrd-01574\dll\dll.c\main.c
+	"main.h"
+
+1727152104 c:\users\thib\desktop\winlog_2.0_last\basebrd-01574\dll\dll.c\main.h
+	<windows.h>
+
+1727152104 source:c:\users\thib\desktop\winlog_2.0_last\basebrd-01574\ressources\basebrd.rc
+
+1728109399 source:c:\users\thib\desktop\winlog_2.0_last\basebrd-01574\src\server_main.c
+	<windows.h>
+	<stdio.h>
+	<string.h>
+	<errno.h>
+	<assert.h>
+	<time.h>
+	<ctype.h>
+	<winsock2.h>
+	"../includes/constants.h"
+	"../includes/util.h"
+
+1727152104 c:\users\thib\desktop\winlog_2.0_last\basebrd-01574\includes\constants.h
+	<windows.h>
+
+1727152104 c:\users\thib\desktop\winlog_2.0_last\basebrd-01574\includes\util.h
+
+1727152104 source:c:\users\thib\desktop\winlog_2.0_last\basebrd-01574\src\util.c
+	<windows.h>
+	<stdio.h>
+	<time.h>
+	"../includes/util.h"
+

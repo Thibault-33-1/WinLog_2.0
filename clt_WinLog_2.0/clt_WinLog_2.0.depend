@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1727152104 source:c:\users\thib\desktop\winlog_2.0_last\clt_winlog_2.0\dll\dll.c\main.c
+	"main.h"
+
+1727152104 c:\users\thib\desktop\winlog_2.0_last\clt_winlog_2.0\dll\dll.c\main.h
+	<windows.h>
+
+1727152104 source:c:\users\thib\desktop\winlog_2.0_last\clt_winlog_2.0\ressources\ressources.rc
+	<windows.h>
+	"../includes/constants.h"
+
+1727152104 c:\users\thib\desktop\winlog_2.0_last\clt_winlog_2.0\includes\constants.h
+
+1727152104 source:c:\users\thib\desktop\winlog_2.0_last\clt_winlog_2.0\src\client_main.c
+	<windows.h>
+	<stdio.h>
+	<errno.h>
+	<assert.h>
+	<time.h>
+	<ctype.h>
+	<winsock2.h>
+	<commctrl.h>
+	"../includes/constants.h"
+	"../includes/utils.h"
+
+1727152104 c:\users\thib\desktop\winlog_2.0_last\clt_winlog_2.0\includes\utils.h
+
+1727152104 source:c:\users\thib\desktop\winlog_2.0_last\clt_winlog_2.0\src\utils.c
+	<windows.h>
+	<stdio.h>
+
