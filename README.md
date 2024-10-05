@@ -1,3 +1,8 @@
+-> Warning : 
+-----------
+
+# The server disable UAC in registry, so try this software on a virtual machine.
+
 # BaseBrd-01574 folder is the server:
 ----------------------------------
 
